@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653007512398",
+    "project_id": "gateinhand",
+    "storage_bucket": "gateinhand.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653007512398:android:3d7a32831c51a34c88341f",
+        "android_client_info": {
+          "package_name": "com.example.noname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafJhPA0p-gqbm5YEcaQQJtC0pCeNa66o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
