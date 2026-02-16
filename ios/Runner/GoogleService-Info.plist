@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.noname</string>
+	<string>com.saneforce.noname</string>
 	<key>PROJECT_ID</key>
 	<string>gateinhand</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:653007512398:ios:c83baabedc2e074f88341f</string>
+	<string>1:653007512398:ios:41345ec4a51fe35788341f</string>
 </dict>
 </plist>
